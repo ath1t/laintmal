@@ -1,0 +1,2 @@
+# laintmal
+just two dices 🎲 
